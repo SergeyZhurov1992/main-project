@@ -1,0 +1,4 @@
+[submodule "sub-project"]
+	path = sub-project
+	branch = main
+	url = https://github.com/SergeyZhurov1992/sub-project.git
